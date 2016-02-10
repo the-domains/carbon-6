@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3117025
+  brandStrength: 0.8171934
+  lightness: 0.359291
+  rhythmicContrast: 0.9688635
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.6847476
+name: Carbon 6
